@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutexp-Blog-Login</string>
+    <string name="FACEBOOK_APP_ID">122141588480284</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">615b1c0bc0d52604b8f91fcea86dde94</string>
+</resources>
